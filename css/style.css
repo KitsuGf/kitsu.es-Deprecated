@@ -87,3 +87,6 @@ div#main-container {
 .footer-icon:hover i.fa-twitch {
 	color: #6441A5;
 }
+.footer-icon:hover i.fa-steam {
+	color: #D2D2D2;
+}
