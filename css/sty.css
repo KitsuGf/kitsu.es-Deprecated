@@ -33,13 +33,18 @@ div#main-container {
 }
 
 #header img {
-	margin: 1.3em 0 0.4em 0;
+	margin: 1.5em 0 0 0;
 }
 
 #header h1 {
 	font-size: 2.5em;
 	line-height: 1.1em;
-	margin: 0.1em 0;
+	margin: 0 0 0.1em 0;
+}
+
+#header h3 {
+	font-weight: 400;
+	font-style: italic;
 }
 
 #content-container {
