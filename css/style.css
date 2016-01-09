@@ -71,10 +71,12 @@ div#main-container {
 	vertical-align: middle;
 }
 
-#about-me-text h3{
-	font-family: "Bitter";
+.about-me-text h3 {
 	font-weight: 400;
+	font-family: "Bitter";
 	font-style: italic;
+}
+
 }
 
 .about-me-image {
