@@ -78,3 +78,7 @@ div#main-container {
 .footer-icon:hover i.fa-envelope {
 	color: #F14D4D;
 }
+
+.footer-icon:hover i.fa-twitch {
+	color: #6441A5;
+}
