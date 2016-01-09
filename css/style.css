@@ -58,7 +58,7 @@ div#main-container {
 .about-me {
 	display: table;
 	table-layout: fixed;
-	width: 80%;
+	width: 100%;
 	margin: auto;
 	font-family: "Bitter";
 	color: #343538;
@@ -76,7 +76,9 @@ div#main-container {
 	font-family: "Bitter";
 	font-style: italic;
 }
- 
+
+
+
 .about-me-image {
 	text-align: center;
 }
