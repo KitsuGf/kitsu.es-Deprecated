@@ -67,9 +67,12 @@ div#main-container {
 	font-size: 1.5em;
 	margin-right: 0.3em;
 }
-
 .footer-icon i {
 	transition: all .25s ease;
+}
+
+.footer-icon-right {
+	float: right;
 }
 
 .footer-icon:hover i {
@@ -87,6 +90,11 @@ div#main-container {
 .footer-icon:hover i.fa-twitch {
 	color: #6441A5;
 }
+
 .footer-icon:hover i.fa-steam {
 	color: #D2D2D2;
+}
+
+.footer-icon:hover i.fa-github {
+	color: #9CDAF1;
 }
