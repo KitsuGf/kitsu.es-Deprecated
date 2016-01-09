@@ -1,9 +1,9 @@
 
 /*************************************************** FONT ***************************************************/
-@import url(https://fonts.googleapis.com/css?family=Roboto:400,700,300|Bitter:400,700); 
+@import url(https://fonts.googleapis.com/css?family=Bitter:400,400italic,700|Roboto:300,700,500);
 /*************************************************** BODY ***************************************************/
 html, body {
-	background-color: whitesmoke;
+	background-color: #FFFFFF;
 	width: 100%;
 	height: 100%;
 	margin: 0px;
@@ -49,6 +49,36 @@ div#main-container {
 #header h3 {
 	font-weight: 400;
 	font-style: italic;
+}
+/*************************************************** ABOUT ***************************************************/
+.about-me-container {
+	background-color: #F0F0F0;
+}
+
+.about-me {
+	display: table;
+	table-layout: fixed;
+	width: 80%;
+	margin: auto;
+	font-family: "Bitter";
+	color: #343538;
+}
+
+.about-me-text,
+.about-me-image {
+	display: table-cell;
+	width: 50%;
+	vertical-align: middle;
+}
+
+#about-me-text h3{
+	font-family: "Bitter";
+	font-weight: 400;
+	font-style: italic;
+}
+
+.about-me-image {
+	text-align: center;
 }
 /*************************************************** CONTENT ***************************************************/
 #content-container {
