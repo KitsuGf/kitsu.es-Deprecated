@@ -1,6 +1,6 @@
 # kitsu.es [WIP]
 
-Repositorio de mi página web personal
+<i>Repositorio de mi página web personal</i>
 
    Web personal para proyecto de juegos indie y PixelArt en desarollo. 
    
