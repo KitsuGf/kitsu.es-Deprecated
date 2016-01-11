@@ -1,5 +1,5 @@
 # kitsu.es [WIP]
-
+<meta charset="utf-8" />
 <i>Repositorio de mi página web personal</i>
 
    Web personal para proyecto de juegos indie y PixelArt en desarollo. 
