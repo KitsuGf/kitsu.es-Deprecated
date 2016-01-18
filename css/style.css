@@ -135,4 +135,30 @@ div#main-container {
 .footer-icon:hover i.fa-github {
 	color: #4078C0;
 }
+
+
+
+
+@media (max-width:1000px) {
+  .about-me-text, .about-me-image {
+    display: block;
+    width: auto;
+  }
+}
+@media (max-width:1000px) {
+  .about-me-image img {
+    width: 100%;
+    height: auto;
+  }
+}
+
+
+
+
+
+
+
+
+
+
 /*************************************************** END ***************************************************/
