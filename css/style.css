@@ -139,22 +139,25 @@ div#main-container {
 
 
 
+
+
+
 @media (max-width:1000px) {
   .about-me-text, .about-me-image {
     display: block;
     width: auto;
+    font-size: 11px;
   }
-}
-@media (max-width:1000px) {
-  .about-me-image img {
+
+.about-me-image img {
     width: 100%;
     height: auto;
   }
+
+  .content-container {
+    font-size: 2px;
+  }
 }
-
-
-
-
 
 
 
