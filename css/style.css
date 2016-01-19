@@ -142,7 +142,7 @@ div#main-container {
 
 
 
-@media (max-width:1000px) {
+@media (max-width:959px) {
   .about-me-text, .about-me-image {
     display: block;
     width: auto;
